@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperSetting">
+    <item>38 도</item>
+    <item>38.5 도</item>
+    <item>39 도</item>
+    <item>39.5 도</item>
+    <item>40 도</item>
+    <item>40.5 도</item>
+	</string-array>
+    
+    
+    <string-array name="temperSetting_values">
+    <item>38</item>
+    <item>39</item>
+    <item>40</item>
+    <item>41</item>
+    <item>42</item>
+    <item>43</item>
+	</string-array>
+</resources>
